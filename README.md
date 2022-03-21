@@ -1,5 +1,5 @@
 ## Fastapi
-- this is fastapi prectice whereby we use sentiment analysis 
+- this is fastapi practice whereby we use sentiment analysis 
 ### Running the application:
 1. we used poetry to install all our dependacies. to install poetry we use: <br/>
 pip install poetry 
